@@ -184,7 +184,8 @@
     transition: all 0.3s ease;
   "
 >
-🏆 <h2>𝓥𝓲𝓼𝓲𝓽 𝓜𝔂 𝓛𝓮𝓮𝓽𝓒𝓸𝓭𝓮 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+🏆 <h2>𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+</h2>
 </summary>
 
 <br>
@@ -316,7 +317,8 @@
     transition: all 0.3s ease;
   "
 >
-🏆 <h2>𝓥𝓲𝓼𝓲𝓽 𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+🏆 <h2>𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+</h2>
 </summary>
 
 <br>
@@ -371,7 +373,8 @@
     box-shadow: 0 6px 20px rgba(0,0,0,0.35);
   "
 >
-🏆 <h2>𝓥𝓲𝓮𝔀 𝓜𝔂 𝓗𝓪𝓬𝓴𝓮𝓻𝓡𝓪𝓷𝓴 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+🏆 <h2>𝗩𝗶𝗲𝘄 𝗠𝘆 𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+</h2>
 </summary>
 
 <br>
@@ -494,7 +497,8 @@
     box-shadow: 0 6px 20px rgba(0,0,0,0.35);
   "
 >
-🏆 <h2>𝓥𝓲𝓮𝔀 𝓜𝔂 𝓚𝓪𝓰𝓰𝓵𝓮 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+🏆 <h2>𝗩𝗶𝗲𝘄 𝗠𝘆 𝗞𝗮𝗴𝗴𝗹𝗲 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+</h2>
 </summary>
 
 <br>
@@ -604,7 +608,8 @@
     transition: all 0.3s ease;
   "
 >
-🏆 <h2>𝓥𝓲𝓼𝓲𝓽 𝓜𝔂 𝓖𝓮𝓮𝓴𝓼-𝓕𝓸𝓻-𝓖𝓮𝓮𝓴𝓼 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+🏆 <h2>𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗚𝗲𝗲𝗸𝘀𝗳𝗼𝗿𝗚𝗲𝗲𝗸𝘀 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+</h2>
 </summary>
 
 <br>
@@ -692,7 +697,8 @@
     transition: all 0.3s ease;
   "
 >
-🏆 <h2>𝓥𝓲𝓼𝓲𝓽 𝓜𝔂 CodeChef 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+🏆 <h2>𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗖𝗼𝗱𝗲𝗖𝗵𝗲𝗳 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+</h2>
 </summary>
 
 <br>
@@ -738,7 +744,8 @@
     transition: all 0.3s ease;
   "
 >
-🏆 <h2>𝓥𝓲𝓼𝓲𝓽 𝓜𝔂 Unstop 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+🏆 <h2>𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗨𝗻𝘀𝘁𝗼𝗽 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+</h2>
 </summary>
 
 <br>
@@ -757,20 +764,40 @@
 
   <div style="display: flex; gap: 20px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
   
-  <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-      <img src="https://via.placeholder.com/240x240.png?text=Achievement+1" width="240"/>
-    </a>
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Welcome%20Badge.png?raw=true" width="240"/>
+</a>
 
-    <a href="https://unstop.com/u/YOUR_USERNAME" target="_blank">
-      <img src="https://via.placeholder.com/240x240.png?text=Achievement+2" width="240"/>
-    </a>
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Newbie%20Badge.png?raw=true" width="240"/>
+</a>
 
-    <a href="https://unstop.com/u/YOUR_USERNAME" target="_blank">
-      <img src="https://via.placeholder.com/240x240.png?text=Achievement+3" width="240"/>
-    </a>
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20One%20and%20done%20Badge.png?raw=true" width="240"/>
+</a>
 
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20100%20Badge.png?raw=true" width="240"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%201000%20Badge.png?raw=true" width="240"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%205000%20Badge.png?raw=true" width="240"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2020000%20Badge.png?raw=true" width="240"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2050000%20Badge.png?raw=true" width="240"/>
+</a>
   </div>
 </div>
 
-**Keep Learning | Keep Coding | Keep Building** ⚡🚀  
+<br>
+Keep Learning | Keep Coding | Keep Building ⚡🚀  
 </br>
