@@ -719,5 +719,58 @@
   </div>
 </div>
 <br>
+</details>
+<!-- Unstop Achievements Toggle -->
+<details>
+<summary
+  style="
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    padding: 16px 36px;
+    font-size: 20px;
+    font-weight: 800;
+    color: #ff6f00;
+    background: #0b0f14;
+    border-radius: 14px;
+    border: 1px solid #4f2f0f;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.35);
+    transition: all 0.3s ease;
+  "
+>
+🏆 <h2>𝓥𝓲𝓼𝓲𝓽 𝓜𝔂 Unstop 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+</summary>
+
+<br>
+
+## 🏆 <strong>Unstop Achievements</strong>
+
+<br>
+
+<div style="
+  border: 1px solid #e5e5e5; 
+  padding: 25px; 
+  border-radius: 14px; 
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
+  margin-bottom: 40px;"> 
+
+  <div style="display: flex; gap: 20px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
+  
+  <a href="https://unstop.com/u/shrirlah3344" target="_blank">
+      <img src="https://via.placeholder.com/240x240.png?text=Achievement+1" width="240"/>
+    </a>
+
+    <a href="https://unstop.com/u/YOUR_USERNAME" target="_blank">
+      <img src="https://via.placeholder.com/240x240.png?text=Achievement+2" width="240"/>
+    </a>
+
+    <a href="https://unstop.com/u/YOUR_USERNAME" target="_blank">
+      <img src="https://via.placeholder.com/240x240.png?text=Achievement+3" width="240"/>
+    </a>
+
+  </div>
+</div>
+
 **Keep Learning | Keep Coding | Keep Building** ⚡🚀  
 </br>
