@@ -418,80 +418,84 @@
   margin-bottom: 50px;
 ">
 
-  <div style="display:flex; gap:22px; justify-content:center; flex-wrap:wrap;">
-   <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Learner.png?raw=true" width="160"/>
+  <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
+   
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Learner.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Stylish.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Stylish.png?raw=true" width="120"/>
+</a>
+
+<a href="https://www.kaggle.com/shriram7057/shriram7057/blob/main/Kaggle%20Vampire.png?raw=true" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Vampire.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Vampire.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20PY%20Coder.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20PY%20Coder.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20R-Coder%20.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20R-Coder%20.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Bookmarker.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Bookmarker.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Forker.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Forker.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Github%20Coder.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Github%20Coder.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Uploader.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Uploader.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Creator.png?raw=true" width="120"/>
+</a>
+
+<a href="https://www.kaggle.com/shriram7057/shriram7057/blob/main/Kaggle%20Dataset%20Creator.png?raw=true" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Dataset%20Creator.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Creator.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Agent%20of%20Discord.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Dataset%20Creator.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%207%20Day%20Login%20Streak.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Agent%20of%20Discord.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Linked%20Model%20Creator.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%207%20Day%20Login%20Streak.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Pipeline%20Creator.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Linked%20Model%20Creator.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Kaggle%20Community%20Member.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Pipeline%20Creator.png?raw=true" width="170"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle-Student-.png?raw=true" width="120"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Kaggle%20Community%20Member.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle-GSC-Badge.png?raw=true" width="120"/>
 </a>
 
-<a href="https://www.kaggle.com/shriramlahane" target="_blank">
-<img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle-Student-.png?raw=true" width="160"/>
+<a href="https://www.kaggle.com/shriram7057/shriram7057/blob/main/Kaggle%20API%20NB%20Cerator%20Badge.png?raw=true" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20API%20NB%20Cerator%20Badge.png?raw=true" width="120"/>
 </a>
-<a href="https://www.kaggle.com/shriramlahane" target="_blank">
-<img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle-GSC-Badge.png?raw=true" width="160"/>
-</a>
-<a href="https://www.kaggle.com/shriramlahane" target="_blank">
-<img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20API%20NB%20Cerator%20Badge.png?raw=true" width="160"/>
-</a>
+
   </div>
 </div>
 </details>
@@ -536,50 +540,54 @@
 
   <div style="
     display: flex;
-    gap: 22px;
+    gap: 12px;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
   ">
 
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="140"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="120"/>
 
   <a href="https://www.geeksforgeeks.org/certificate/28c1351974b0e94503ef2c3163d9fabc" target="_blank">
-      <img src="https://skillicons.dev/icons?i=c" width="130"/>
+      <img src="https://skillicons.dev/icons?i=c" width="120"/>
     </a>
+
   <a href="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" target="_blank">
-          <img src="https://skillicons.dev/icons?i=cpp" width="130"/>
+      <img src="https://skillicons.dev/icons?i=cpp" width="120"/>
     </a>
 
   <img src="https://github.com/shriram7057/shriram7057/blob/main/node%20js%20ani.gif?raw=true" width="120"/>
+
   <a href="https://media.geeksforgeeks.org/courses/certificates/b14bca951b43f3748828d9ac3cf950ed.pdf" target="_blank">
-         <img src="https://skillicons.dev/icons?i=java" width="130"/>
+      <img src="https://skillicons.dev/icons?i=java" width="120"/>
     </a>
 
   <a href="https://www.geeksforgeeks.org/certificate/a26bacb92e4bb567cd6978aa274ca890" target="_blank">
-      <img src="https://skillicons.dev/icons?i=python" width="130"/>
+      <img src="https://skillicons.dev/icons?i=python" width="120"/>
     </a>
 
   <a href="https://www.geeksforgeeks.org/certificate/feadd08e41568e595f8f1d2f9ecfa725" target="_blank">
-      <img src="https://skillicons.dev/icons?i=js" width="130"/>
+      <img src="https://skillicons.dev/icons?i=js" width="120"/>
     </a>
 
   <a href="https://www.geeksforgeeks.org/certificate/5beca0cf355c49b7f6d991fb2d553c00" target="_blank">
-            <img src="https://skillicons.dev/icons?i=django" width="130"/>
+      <img src="https://skillicons.dev/icons?i=django" width="120"/>
     </a>
 
   <a href="https://www.geeksforgeeks.org/certificate/187e810c657bc4af02d1357f41f4c575" target="_blank">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="130"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="120"/>
     </a>
+
   <a href="https://www.geeksforgeeks.org/certificate/25078514cf8abdf43d495846de19264a" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/IOS%20Dev.gif?raw=true" width="150"/>
+      <img src="https://github.com/shriram7057/shriram7057/blob/main/IOS%20Dev.gif?raw=true" width="120"/>
     </a>
-   <a href="https://www.geeksforgeeks.org/certificate/7e8a774a7122478c90750c77d0cf1e84" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/Lyzr%20AI.png?raw=true" width="190"/>
+
+  <a href="https://www.geeksforgeeks.org/certificate/7e8a774a7122478c90750c77d0cf1e84" target="_blank">
+      <img src="https://github.com/shriram7057/shriram7057/blob/main/Lyzr%20AI.png?raw=true" width="120"/>
     </a>
 
   <a href="https://github.com/shriram7057/shriram7057/blob/main/160%20Daya%20Of%20DSA.png?raw=true" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/160%20Daya%20Of%20DSA.png?raw=true" width="190"/>
+      <img src="https://github.com/shriram7057/shriram7057/blob/main/160%20Daya%20Of%20DSA.png?raw=true" width="120"/>
     </a>
 
   </div>
@@ -668,46 +676,46 @@
   box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
   margin-bottom: 40px;"> 
 
-  <div style="display: flex; gap: 20px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
+  <div style="display: flex; gap: 12px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
   
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Welcome%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Welcome%20Badge.png?raw=true" width="120"/>
 </a>
 
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Newbie%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Newbie%20Badge.png?raw=true" width="120"/>
 </a>
 
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20One%20and%20done%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20One%20and%20done%20Badge.png?raw=true" width="120"/>
 </a>
 
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20100%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20100%20Badge.png?raw=true" width="120"/>
 </a>
 
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%201000%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%201000%20Badge.png?raw=true" width="120"/>
 </a>
 
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%205000%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%205000%20Badge.png?raw=true" width="120"/>
 </a>
 
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2020000%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2020000%20Badge.png?raw=true" width="120"/>
 </a>
 
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2050000%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2050000%20Badge.png?raw=true" width="120"/>
 </a>
 
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Member%20Badge.png?raw=true" width="240"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Member%20Badge.png?raw=true" width="120"/>
 </a>
+
   </div>
 </div>
-
 <br>
 Keep Learning | Keep Coding | Keep Building ⚡🚀  
 </br>
