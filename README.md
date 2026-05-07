@@ -714,6 +714,10 @@
   <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Member%20Badge.png?raw=true" width="120"/>
 </a>
 
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Zen%20with%20ten%20badge.png?raw=true" width="120"/>
+</a>
+
   </div>
 </div>
 <br>
