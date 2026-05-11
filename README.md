@@ -204,7 +204,103 @@
 </div>
 
 </details>
+<!-- Unstop Achievements Toggle -->
+<details>
+<summary
+  style="
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    padding: 16px 36px;
+    font-size: 20px;
+    font-weight: 800;
+    color: #ff6f00;
+    background: #0b0f14;
+    border-radius: 14px;
+    border: 1px solid #4f2f0f;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.35);
+    transition: all 0.3s ease;
+  "
+>
+🏆 <h2>𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗨𝗻𝘀𝘁𝗼𝗽 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+</h2>
+</summary>
 
+<br>
+
+## 🏆 <strong>Unstop Achievements</strong>
+
+<br>
+
+<div style="
+  border: 1px solid #e5e5e5; 
+  padding: 25px; 
+  border-radius: 14px; 
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
+  margin-bottom: 40px;"> 
+
+  <div style="display: flex; gap: 12px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
+  
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Welcome%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Newbie%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20One%20and%20done%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20100%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%201000%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%205000%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2020000%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2050000%20Badge.png?raw=true" width="120"/>
+</a>
+
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Algorithm%20Explorer%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Member%20Badge.png?raw=true" width="120"/>
+</a>
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Debugging%20Guru%20badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Code%20Architect%20Badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Zen%20with%20ten%20badge.png?raw=true" width="120"/>
+</a>
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Jar.png?raw=true" width="100"/>
+</a>
+
+  </div>
+</div>
+</details>
 <!-- Dark Theme Toggle Button -->
 <details>
 <summary
@@ -646,102 +742,7 @@
 </div>
 <br>
 </details>
-<!-- Unstop Achievements Toggle -->
-<details>
-<summary
-  style="
-    cursor: pointer;
-    list-style: none;
-    display: inline-block;
-    padding: 16px 36px;
-    font-size: 20px;
-    font-weight: 800;
-    color: #ff6f00;
-    background: #0b0f14;
-    border-radius: 14px;
-    border: 1px solid #4f2f0f;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.35);
-    transition: all 0.3s ease;
-  "
->
-🏆 <h2>𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗨𝗻𝘀𝘁𝗼𝗽 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
-</h2>
-</summary>
 
-<br>
-
-## 🏆 <strong>Unstop Achievements</strong>
-
-<br>
-
-<div style="
-  border: 1px solid #e5e5e5; 
-  padding: 25px; 
-  border-radius: 14px; 
-  background: #ffffff;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
-  margin-bottom: 40px;"> 
-
-  <div style="display: flex; gap: 12px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
-  
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Welcome%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Newbie%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20One%20and%20done%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20100%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%201000%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%205000%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2020000%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2050000%20Badge.png?raw=true" width="120"/>
-</a>
-
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Algorithm%20Explorer%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Member%20Badge.png?raw=true" width="120"/>
-</a>
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Debugging%20Guru%20badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Code%20Architect%20Badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Zen%20with%20ten%20badge.png?raw=true" width="120"/>
-</a>
-
-<a href="https://unstop.com/u/shrirlah3344" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Jar.png?raw=true" width="100"/>
-</a>
-
-  </div>
-</div>
 <br>
 Keep Learning | Keep Coding | Keep Building ⚡🚀  
 </br>
