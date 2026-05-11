@@ -716,6 +716,11 @@
   <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%2050000%20Badge.png?raw=true" width="120"/>
 </a>
 
+
+<a href="https://unstop.com/u/shrirlah3344" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Unstop%20Algorithm%20Explorer%20Badge.png?raw=true" width="120"/>
+</a>
+
 <a href="https://unstop.com/u/shrirlah3344" target="_blank">
   <img src="https://github.com/shriram7057/shriram7057/blob/main/unstop%20Member%20Badge.png?raw=true" width="120"/>
 </a>
