@@ -633,7 +633,13 @@
   <div style="display: flex; gap: 20px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/CodeChef%20Bronze%20Badge.png?raw=true" width="240"/>
       <a href="https://www.codechef.com/users/stench_dusk_73" target="_blank">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/CodeChef%20Problem%20Solver%20-%20Bronze%20Badge.png?raw=true" width="240"/>
+        
+ 
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/CodeChef%20Problem%20Solver%20-%20Bronze%20Badge.png?raw=true" width="240"/>
+      <a href="https://www.codechef.com/users/stench_dusk_73" target="_blank">
+
+      
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/CodeChef%20Daily%20Streak%20-%20Silver%20Badge.png?raw=true" width="240"/>
       <a href="https://www.codechef.com/users/stench_dusk_73" target="_blank">
 
   </div>
