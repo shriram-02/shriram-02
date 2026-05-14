@@ -85,7 +85,7 @@
 <p align="left">
   <a href="https://unachiv.netlify.app/">
     <img 
-      src="https://img.shields.io/badge/LeetCode%20Achievements-24292F?style=for-the-badge&logo=unstop&logoColor=FFA116"
+      src="https://img.shields.io/badge/Unstop%20Achievements-24292F?style=for-the-badge&logo=unstop&logoColor=FFA116"
       alt="Unstop Achievements"
       height="90"
     />
@@ -95,7 +95,7 @@
 <p align="left">
   <a href="https://ccachiv.netlify.app/">
     <img 
-      src="https://img.shields.io/badge/LeetCode%20Achievements-24292F?style=for-the-badge&logo=codechef&logoColor=FFA116"
+      src="https://img.shields.io/badge/Codechef%20Achievements-24292F?style=for-the-badge&logo=codechef&logoColor=FFA116"
       alt="Codechef Achievements"
       height="90"
     />
