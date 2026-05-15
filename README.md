@@ -91,6 +91,18 @@
     />
   </a>
 </p>
+
+<!-- GitHub Achievements -->
+<p align="left">
+  <a href="https://ghachiv.netlify.app/">
+    <img 
+      src="https://img.shields.io/badge/GitHub%20Achievements-24292F?style=for-the-badge&logo=GitHub&logoColor=FFA116"
+      alt="GitHub Achievements"
+      height="90"
+    />
+  </a>
+</p>
+
 <!-- Codechef Achievements -->
 <p align="left">
   <a href="https://ccachiv.netlify.app/">
