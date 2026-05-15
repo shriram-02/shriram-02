@@ -102,7 +102,16 @@
     />
   </a>
 </p>
-
+<!-- kaggle Achievements -->
+<p align="left">
+  <a href="https://kaggleachiv.netlify.app/">
+    <img 
+      src="https://img.shields.io/badge/kaggle%20Achievements-24292F?style=for-the-badge&logo=kaggle&logoColor=FFA116"
+      alt="kaggle Achievements"
+      height="90"
+    />
+  </a>
+</p>
 <!-- Codechef Achievements -->
 <p align="left">
   <a href="https://ccachiv.netlify.app/">
