@@ -71,8 +71,9 @@
 </table>
  </p>
  
- <!-- leetcode achivements -->
-<p align="left">
+ <div align="left">
+
+  <!-- LeetCode Achievements -->
   <a href="https://lcahiv.netlify.app/">
     <img 
       src="https://img.shields.io/badge/LeetCode%20Achievements-24292F?style=for-the-badge&logo=leetcode&logoColor=FFA116"
@@ -80,9 +81,8 @@
       height="90"
     />
   </a>
-</p>
-<!-- Unstop Achievements  -->
-<p align="left">
+
+  <!-- Unstop Achievements -->
   <a href="https://unachiv.netlify.app/">
     <img 
       src="https://img.shields.io/badge/Unstop%20Achievements-24292F?style=for-the-badge&logo=unstop&logoColor=FFA116"
@@ -90,10 +90,8 @@
       height="90"
     />
   </a>
-</p>
 
-<!-- GitHub Achievements -->
-<p align="left">
+  <!-- GitHub Achievements -->
   <a href="https://ghachiv.netlify.app/">
     <img 
       src="https://img.shields.io/badge/GitHub%20Achievements-24292F?style=for-the-badge&logo=GitHub&logoColor=FFA116"
@@ -101,9 +99,8 @@
       height="90"
     />
   </a>
-</p>
-<!-- kaggle Achievements -->
-<p align="left">
+
+  <!-- Kaggle Achievements -->
   <a href="https://kaggleachiv.netlify.app/">
     <img 
       src="https://img.shields.io/badge/kaggle%20Achievements-24292F?style=for-the-badge&logo=kaggle&logoColor=FFA116"
@@ -111,9 +108,8 @@
       height="90"
     />
   </a>
-</p>
-<!-- Codechef Achievements -->
-<p align="left">
+
+  <!-- CodeChef Achievements -->
   <a href="https://ccachiv.netlify.app/">
     <img 
       src="https://img.shields.io/badge/Codechef%20Achievements-24292F?style=for-the-badge&logo=codechef&logoColor=FFA116"
@@ -121,5 +117,5 @@
       height="90"
     />
   </a>
-</p>
 
+</div>
