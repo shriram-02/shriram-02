@@ -117,5 +117,12 @@
       height="90"
     />
   </a>
-
+<!-- Google Developer Profile -->
+<a href="https://me.developers.google.com/u/111127579372910137646" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/Google%20Developer%20Profile-202124?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=202124&color=303134"
+    alt="Google Developer Profile"
+    height="90"
+  />
+</a>
 </div>
