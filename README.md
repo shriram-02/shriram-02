@@ -117,6 +117,43 @@
       height="90"
     />
   </a>
+
+<!-- GeeksforGeeks Profile -->
+<a href="https://www.geeksforgeeks.org/profile/shriram01" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/GeeksforGeeks%20Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=161B22&color=21262D"
+    alt="GeeksforGeeks Profile"
+    height="90"
+  />
+</a>
+
+<!-- HackerRank Profile -->
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/HackerRank%20Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=161B22&color=21262D"
+    alt="HackerRank Profile"
+    height="90"
+  />
+</a>
+  
+<!-- NeetCode Profile -->
+<a href="https://neetcode.io/profile" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/NeetCode%20Profile-0F172A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxMiIgZmlsbD0iIzAwQzJGNyIvPjxwYXRoIGQ9Ik0xOCA0OEgxMlYxNkgxOEw0NiAzNlYxNkg1MlY0OEg0NkwxOCAyOFY0OFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white&labelColor=111827&color=1E293B"
+    alt="NeetCode Profile"
+    height="90"
+  />
+</a>
+
+<!-- Unstop Profile -->
+<a href="https://unstop.com/u/shrirlah3344" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/Unstop%20Profile-0D1117?style=for-the-badge&logo=unacademy&logoColor=00E676&labelColor=161B22&color=21262D"
+    alt="Unstop Profile"
+    height="90"
+  />
+</a>
+
 <!-- Google Developer Profile -->
 <a href="https://me.developers.google.com/u/111127579372910137646" target="_blank" rel="noopener noreferrer">
   <img 
