@@ -1,22 +1,30 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
     <!-- LEFT CONTENT -->
     <td valign="top" width="70%">
+
 <h3>Hi 👋, 𝗜'𝗺 𝗦𝗵𝗿𝗶𝗿𝗮𝗺 𝗟𝗮𝗵𝗮𝗻𝗲 ⚡</h3>
+
 <p>
-<b>Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ᴄᴏᴅɪɴɢ,
+<b>
+Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ᴄᴏᴅɪɴɢ,
 ᴘʀᴏʙʟᴇᴍ-ꜱᴏʟᴠɪɴɢ, ᴀɴᴅ ꜰᴜʟʟ-ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
+</b>
 </p>
 
 <ul>
   <li>🌱 Currently learning MERN Stack, AI, and Systems Programming</li>
   <li>👯 Open to collaborate on Web Development and Open-Source projects</li>
   <li>🤝 Interested in research-driven AI work</li>
-<li>
+  <li>
     📫 Reach Me at 
     <a href="mailto:lahaneshriram2@gmail.com">
-      <b>lahaneshriram2@gmail.com</b></ul>
-<h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲🤝:</h3>
+      <b>lahaneshriram2@gmail.com</b>
+    </a>
+  </li>
+</ul>
+
+<h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 🤝</h3>
 
 <p>
   <a href="https://github.com/shriram7057">
@@ -47,34 +55,40 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" width="32"/>
   </a>
 
-  <!-- Discord Link -->
-  <a href="https://discord.com/shriram_79991" target="_blank">
+  <!-- Discord -->
+  <a href="https://discord.com/users/shriram_79991" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="32" width="32"/>
   </a>
 
+  <!-- WhatsApp -->
   <a href="https://wa.me/7057461009" target="_blank">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="32" width="32"/>
   </a>
 
+  <!-- Facebook -->
   <a href="https://www.facebook.com/yourusername" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" width="32"/>
   </a>
 
-  <!-- Credly Link -->
+  <!-- Credly -->
   <a href="https://www.credly.com/users/lahane-shriram" target="_blank">
     <img src="https://cdn.simpleicons.org/credly/FF6B00" height="32" width="32"/>
   </a>
+</p>
 
-<div style="margin-bottom: 20px;">
+</td>
 
-   <!-- RIGHT GIF -->
-  <td valign="top" align="right" width="30%">
-      <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/antnO%20desk.gif" width="200"/>
-    </td>
+<!-- RIGHT GIF -->
+<td valign="top" align="right" width="30%">
+  <img 
+    src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/antnO%20desk.gif" 
+    width="200"
+    style="border:none;"
+  />
+</td>
+
   </tr>
 </table>
-</p>
- 
  <div align="left">
 
   <!-- LeetCode Achievements -->
