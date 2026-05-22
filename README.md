@@ -155,7 +155,7 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
 <a href="https://neetcode.io/profile" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.shields.io/badge/NeetCode%20Profile-0F172A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxMiIgZmlsbD0iIzAwQzJGNyIvPjxwYXRoIGQ9Ik0xOCA0OEgxMlYxNkgxOEw0NiAzNlYxNkg1MlY0OEg0NkwxOCAyOFY0OFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white&labelColor=111827&color=1E293B"
-    alt="NeetCode Profile"
+    alt=""
     height="90"
   />
 </a>
