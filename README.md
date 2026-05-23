@@ -186,4 +186,12 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
     height="90"
   />
 </a>
+<!-- Microsoft Learn Profile -->
+<a href="https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/Microsoft%20Learn%20Profile-000000?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000&color=111111"
+    alt="Microsoft Learn Profile"
+    height="90"
+  />
+</a>
 </div>
