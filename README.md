@@ -168,21 +168,19 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
     height="90"
   />
 </a>
-
-<!-- Google Developer Profile -->
-<a href="https://me.developers.google.com/u/111127579372910137646" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/Google%20Developer%20Profile-202124?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=202124&color=303134"
-    alt="Google Developer Profile"
-    height="90"
-  />
-</a>
-
 <!-- Anthropic Learning Profile -->
 <a href="https://anthropic.skilljar.com/accounts/profile/?next=/" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.shields.io/badge/Anthropic%20Profile-0D1117?style=for-the-badge&logo=anthropic&logoColor=D4A373&labelColor=161B22&color=21262D"
     alt="Anthropic Profile"
+    height="90"
+  />
+</a>
+<!-- GDG Profile -->
+<a href="https://me.developers.google.com/u/111127579372910137646" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/GDG%20Profile-202124?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=202124&color=303134"
+    alt="GDG Profile"
     height="90"
   />
 </a>
