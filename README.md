@@ -150,7 +150,14 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
     height="90"
   />
 </a>
-  
+  <!-- GDG Profile -->
+<a href="https://me.developers.google.com/u/111127579372910137646" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/GDG%20Profile-202124?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=202124&color=303134"
+    alt="GDG Profile"
+    height="90"
+  />
+</a>
 <!-- NeetCode Profile -->
 <a href="https://neetcode.io/profile" target="_blank" rel="noopener noreferrer">
   <img 
@@ -176,14 +183,7 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
     height="90"
   />
 </a>
-<!-- GDG Profile -->
-<a href="https://me.developers.google.com/u/111127579372910137646" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/GDG%20Profile-202124?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=202124&color=303134"
-    alt="GDG Profile"
-    height="90"
-  />
-</a>
+
 <!-- Microsoft Learn Profile -->
 <a href="https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules" target="_blank" rel="noopener noreferrer">
   <img 
