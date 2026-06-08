@@ -183,7 +183,13 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
     height="90"
   />
 </a>
-
+<a href="https://www.netacad.com/profile" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/Cisco%20Profile-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=161B22&color=21262D"
+    alt="Cisco Profile"
+    height="90"
+  />
+</a>
 <!-- Microsoft Learn Profile -->
 <a href="https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules" target="_blank" rel="noopener noreferrer">
   <img 
