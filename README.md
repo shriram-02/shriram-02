@@ -169,8 +169,8 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
 
 <!-- Unstop Profile -->
 <a href="https://unstop.com/u/shrirlah3344" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/Unstop%20Profile-0D1117?style=for-the-badge&logo=unacademy&logoColor=00E676&labelColor=161B22&color=21262D"
+  <img
+    src="https://img.shields.io/badge/Unstop%20Profile-0D1117?style=for-the-badge&logo=https%3A%2F%2Funstop.com%2Ffavicon.ico&logoColor=00E676&labelColor=161B22&color=21262D"
     alt="Unstop Profile"
     height="90"
   />
