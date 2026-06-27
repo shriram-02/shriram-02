@@ -72,48 +72,47 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
   </tr>
 </table>
  <div align="left">
+<!-- LeetCode Profile -->
+<a href="https://leetcode.com/u/shriram_lahane/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Profile-24292F?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+    alt="LeetCode Profile"
+    height="90"
+  />
+</a>
 
-  <!-- LeetCode Achievements -->
-  <a href="https://lcahiv.netlify.app/">
+  <!-- Unstop Profile -->
+  <a href="https://unstop.com/u/shrirlah3344">
     <img 
-      src="https://img.shields.io/badge/LeetCode%20Achievements-24292F?style=for-the-badge&logo=leetcode&logoColor=FFA116"
-      alt="LeetCode Achievements"
+      src="https://img.shields.io/badge/Unstop-Profile-24292F?style=for-the-badge&logo=unstop&logoColor=FFA116"
+      alt="Unstop Profile"
       height="90"
     />
   </a>
 
-  <!-- Unstop Achievements -->
-  <a href="https://unachiv.netlify.app/">
+  <!-- GitHub Profile -->
+  <a href="https://github.com/shriram-02">
     <img 
-      src="https://img.shields.io/badge/Unstop%20Achievements-24292F?style=for-the-badge&logo=unstop&logoColor=FFA116"
-      alt="Unstop Achievements"
+      src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=GitHub&logoColor=FFA116"
+      alt="GitHub Profile"
       height="90"
     />
   </a>
 
-  <!-- GitHub Achievements -->
-  <a href="https://ghachiv.netlify.app/">
+  <!-- Kaggle Profile -->
+  <a href="https://www.kaggle.com/shriramlahane">
     <img 
-      src="https://img.shields.io/badge/GitHub%20Achievements-24292F?style=for-the-badge&logo=GitHub&logoColor=FFA116"
-      alt="GitHub Achievements"
+      src="https://img.shields.io/badge/kaggle-Profile-24292F?style=for-the-badge&logo=kaggle&logoColor=FFA116"
+      alt="kaggle Profile"
       height="90"
     />
   </a>
 
-  <!-- Kaggle Achievements -->
-  <a href="https://kaggleachiv.netlify.app/">
+  <!-- CodeChef Profile -->
+  <a href="https://www.codechef.com/users/shriram_01">
     <img 
-      src="https://img.shields.io/badge/kaggle%20Achievements-24292F?style=for-the-badge&logo=kaggle&logoColor=FFA116"
-      alt="kaggle Achievements"
-      height="90"
-    />
-  </a>
-
-  <!-- CodeChef Achievements -->
-  <a href="https://ccachiv.netlify.app/">
-    <img 
-      src="https://img.shields.io/badge/Codechef%20Achievements-24292F?style=for-the-badge&logo=codechef&logoColor=FFA116"
-      alt="Codechef Achievements"
+      src="https://img.shields.io/badge/Codechef-Profile-24292F?style=for-the-badge&logo=codechef&logoColor=FFA116"
+      alt="Codechef Profile"
       height="90"
     />
   </a>
@@ -152,14 +151,6 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
   />
 </a>
 
-<!-- Unstop Profile -->
-<a href="https://unstop.com/u/shrirlah3344" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Unstop%20Profile-0D1117?style=for-the-badge&logo=https%3A%2F%2Funstop.com%2Ffavicon.ico&logoColor=00E676&labelColor=161B22&color=21262D"
-    alt="Unstop Profile"
-    height="90"
-  />
-</a>
 <!-- Anthropic Learning Profile -->
 <a href="https://anthropic.skilljar.com/accounts/profile/?next=/" target="_blank" rel="noopener noreferrer">
   <img 
