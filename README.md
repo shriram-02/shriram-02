@@ -136,12 +136,3 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
   <img src="https://img.shields.io/badge/HackerEarth%20Profile-0D1117?style=for-the-badge&logo=hackerearth&logoColor=2CFF88&labelColor=161B22&color=21262D" alt="HackerEarth Profile" height="25"/>
 </a>
 </div>
-
-### 🔝 Top Contributor
-[](https://github-contributor-stats.vercel.app/api?username=Yashwant330&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
