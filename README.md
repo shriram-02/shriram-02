@@ -136,3 +136,8 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
   <img src="https://img.shields.io/badge/HackerEarth%20Profile-0D1117?style=for-the-badge&logo=hackerearth&logoColor=2CFF88&labelColor=161B22&color=21262D" alt="HackerEarth Profile" height="25"/>
 </a>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake.svg">
+</picture>
