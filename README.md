@@ -106,7 +106,10 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
   <a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank%20Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=161B22&color=21262D" alt="HackerRank Profile" height="25"/>
   </a>
-
+<!-- TakeUForward -->
+<a href="https://takeuforward.org/profile/shriram_02" target="_blank">
+  <img src="https://img.shields.io/badge/TakeUForward%20Profile-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22&color=21262D" alt="TakeUForward Profile" height="25"/>
+</a>
   <!-- GDG -->
   <a href="https://me.developers.google.com/u/111127579372910137646" target="_blank">
     <img src="https://img.shields.io/badge/GDG%20Profile-202124?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=202124&color=303134" alt="GDG Profile" height="25"/>
