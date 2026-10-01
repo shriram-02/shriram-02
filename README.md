@@ -41,16 +41,78 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
   <a href="https://auth.geeksforgeeks.org/user/shriram01">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="25" width="25"/>
   </a>
-    <a href="https://www.hackerrank.com/profile/lahaneshriram2">
+
+  <a href="https://unstop.com/u/shrirlah3344" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/unstop"
+    height="25"
+    width="25"
+    alt="Unstop"
+  />
+</a>
+
+<a href="https://neetcode.io/user/AgileBantha440" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://neetcode.io/favicon.ico"
+    height="25"
+    width="25"
+    alt="NeetCode"
+  />
+</a>
+
+<a href="https://takeuforward.org/profile/shriram_02" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://takeuforward.org/favicon.ico"
+    height="25"
+    width="25"
+    alt="takeUforward"
+  />
+</a>
+
+<a href="https://www.hackerearth.com/@lahaneshriram2/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://cdn.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_dark.png"
+    height="23"
+    width="25"
+    alt="HackerEarth"
+  />
+</a>
+
+<a href="https://www.codechef.com/users/shriram_01" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/codechef"
+    height="25"
+    width="25"
+    alt="CodeChef"
+  />
+</a>
+
+  <a href="https://www.hackerrank.com/profile/lahaneshriram2">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="25" width="25"/>
   </a>
+
+<a href="https://www.meetup.com/members/480312754/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://www.meetup.com/favicon.ico"
+    height="23"
+    width="25"
+    alt="Meetup"
+  />
+</a>
+
+<a href="https://x.com/shriram_lahane" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/x/ffffff"
+    height="23"
+    width="25"
+    alt="X"
+  />
+</a>
+  
   <a href="https://kaggle.com/shriramlahane">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="25" width="25"/>
   </a>
 
-  <a href="https://instagram.com/pvt.shree_01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="25" width="25"/>
-  </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/shriram_79991" target="_blank">
