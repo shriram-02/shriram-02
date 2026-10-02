@@ -123,7 +123,7 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
 </td>
 
 <!-- RIGHT GIF -->
-<td valign="top" align="right" width="30%">
+<td valign="top" align="right" width="27%">
   <img 
     src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/antnO%20desk.gif" 
     width="200"
